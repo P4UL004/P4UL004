@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://animated-fluent-emoji.vercel.app/emoji/animated/Waving%20Hand.gif" width="40" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=DEFF9A&center=true&vCenter=true&width=500&lines=Prazer,+meu+nome+é+Paulo!;Aspiring+Software+Developer;Focado+em+Java+%26+Web+Dev;Bem-vindo+ao+meu+Github!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=C0C0C0&center=true&vCenter=true&width=500&lines=Prazer,+meu+nome+é+Paulo!;Aspiring+Software+Developer;Focado+em+Java+%26+Web+Dev;Bem-vindo+ao+meu+Github!" alt="Typing SVG" />
 </div>
 
 ### Aspiring Software Developer | Java & Web Enthusiast
