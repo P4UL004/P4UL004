@@ -1,11 +1,10 @@
 <div align="center">
   <h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=DEFF9A&center=true&vCenter=true&width=435&lines=Olá,+eu+sou+o+Paulo!;Aspiring+Software+Developer;Java+%26+Web+Enthusiast" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=DEFF9A&center=true&vCenter=true&width=435&lines=Prazer,+meu+nome+é+Paulo!;Aspiring+Software+Developer;Java+%26+Web+Enthusiast" alt="Typing SVG" />
     </a>
   </h1>
 </div>
-# Prazer, meu nome é Paulo 👋
 
 ### Aspiring Software Developer | Java & Web Enthusiast
 
