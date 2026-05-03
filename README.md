@@ -33,14 +33,6 @@ Sou um entusiasta de tecnologia de Camaçari, Bahia, focado em construir soluç�
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-### 📊 Estatísticas do GitHub:
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=P4UL004&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P4UL004&layout=compact&langs_count=7&theme=dracula"/>
-</p>
 
 ---
 
