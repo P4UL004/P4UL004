@@ -11,7 +11,7 @@ Sou um entusiasta de tecnologia de Camaçari, Bahia, focado em construir soluç�
 ---
 
 ### 🛠️ No que estou trabalhando:
-- 🔭 Atualmente desenvolvendo a identidade e sistema da **Starlight Tech**.
+- 🔭 Atualmente desenvolvendo a identidade e sistema da **One Pride**, um app de apoio as pessoas LGBTQIAPN+.
 - 🌱 Aprimorando conceitos de **Programação Orientada a Objetos (Java)**.
 - 🌐 Construindo interfaces modernas e responsivas para a Web.
 - 🐧 Gerenciando ambientes e containers com **Linux & Docker**.
